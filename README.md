@@ -12,3 +12,5 @@ The application's initial screen allows for login and account creation. Upon acc
 
 # Observations
 The "Forgot Password" screen, although present, is currently non-functional.
+
+##The code is in the branch Master
