@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">project_application</string>
+
+    <string name="total_price">Total: $%1$.2f</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="id">ID</string>
+    <string name="name" />
+    <string name="phonenumber" />
+    <string name="adress" />
+    <string name="youradress">a</string>
+    <string name="email" />
+    <string name="Name">name</string>
+    <string name="Phonenumber">phonenumber</string>
+    <string name="Adress">adress</string>
+    <string name="Email">email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="emailconfirm">Email</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="descri_o_do_produto">Descrição do Produto</string>
+    <string name="r_0_00">R$0,00</string>
+</resources>
